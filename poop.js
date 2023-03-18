@@ -5,3 +5,6 @@ const logFirstTwoBoxes = (boxes) => {
 }
 
 logFirstTwoBoxes(boxes)
+
+// something like O(4 + 3n)
+// can just be simplified into O(n)
