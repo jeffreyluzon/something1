@@ -9,3 +9,9 @@ logFirstTwoBoxes(boxes)
 // something like O(4 + 3n)
 // can just be simplified into O(n)
 // O(n) your adding a loop for every Element
+
+// what causes space complexity 
+// variables
+// data structures
+// function Call
+// allocation
