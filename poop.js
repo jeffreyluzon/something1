@@ -15,3 +15,9 @@ logFirstTwoBoxes(boxes)
 // data structures
 // function Call
 // allocation
+
+
+// interviewers want to hear your thought process 
+
+// ineed to learn 
+// arrays, stacks, queues, linked list
