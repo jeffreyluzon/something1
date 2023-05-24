@@ -20,4 +20,4 @@ logFirstTwoBoxes(boxes)
 // interviewers want to hear your thought process 
 
 // ineed to learn 
-// arrays, stacks, queues, linked list
+// arrays, stacks, queues, linked list, trees, tries, graph, hash tables
